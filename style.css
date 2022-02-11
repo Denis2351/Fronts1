@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+#test1 {
+    color: brown;
+    font-family: "Lobster";
+}
+
+#test2 {
+    color: gold;
+    font-family: "Press Start 2P";
+    font-size: 10px;
+}
+#test3 {
+    color: green;
+    font-family: "Pangolin";
+    font-size: 15px;
+}
